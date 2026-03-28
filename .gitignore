@@ -1,0 +1,5 @@
+bin/
+obj/
+*.user
+.vs/
+xp_tracker.json
