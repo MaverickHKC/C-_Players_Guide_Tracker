@@ -44,3 +44,7 @@ dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=
 
 ```
 
+\## Note on Windows SmartScreen
+Windows may flag this as an unknown app on first run. 
+Click "More info" → "Run anyway" to proceed. 
+This is normal for small open source tools without a code signing certificate.
